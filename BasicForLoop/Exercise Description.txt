@@ -1,0 +1,5 @@
+Write a program that reads from the standard input three integer numbers a, b, c and then prints on the screen 
+
+all integer numbers between a and b.
+all integer numbers between a and b that are divisible by c.
+numbers of the form a, a+c, a+2c, a+3c,... that are smaller than b.
