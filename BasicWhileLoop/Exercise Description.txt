@@ -1,0 +1,7 @@
+Write program that reads from standard input numbers until zero is read.
+
+While reading:
+
+compute sum of all numbers,
+find minimal and maximal element,
+outputs to the screen number if it is a prime number (divisible exactly by two numbers: 1 and itself)
